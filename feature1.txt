@@ -1,5 +1,6 @@
 add feature 1
 
+update infomation ....
 
 infomation 1
 
@@ -14,3 +15,6 @@ infomation 5
 todo somthing
 
 update feature 1
+add info
+
+update f1 -1
